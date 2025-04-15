@@ -1,6 +1,6 @@
 # Quiz Game
 
-A multiple-choice quiz game written in Python that was created by object-oriented programming and a dictionary of questions pulled from an external source.
+A multiple-choice quiz game written in Python that was created by object-oriented programming and a dictionary of questions pulled from an external source. This project was created to simulate an online quiz or trivia type of game. In this game, there are several questions along with their answers stored into a dictionary. If a player answers the questions correctly, they will gain a point, otherwise they will move onto the next question with no point. I wanted to see how I could incorporate "outside" data into my code with this project.
 
 # Goal of my project:
 
